@@ -4,7 +4,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-## 📜 Overview
+## 📚 Overview
 This repository contains my journey through the Responsive Web Design Certification from FreeCodeCamp, showcasing my skills in creating modern, responsive websites.
 
 ## 🗂️ Repository Structure
@@ -48,8 +48,6 @@ This repository contains my journey through the Responsive Web Design Certificat
 ## 🏆 Certification
 - [My FreeCodeCamp Profile](https://www.freecodecamp.org/HmgOfficial)
 - [FreeCodeCamp Certification](https://www.freecodecamp.org/certification/HmgOfficial/responsive-web-design)
-
-[Link](https://www.freecodecamp.org/certification/HmgOfficial/responsive-web-design)
 
 ## 📫 Contact
 Feel free to reach out for collaborations or questions!
